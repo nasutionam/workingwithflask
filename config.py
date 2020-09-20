@@ -18,3 +18,8 @@ class Config(object):
     ADMINS = ['2bfcec6c157047849cc3@mailspons.com']
 
     POSTS_PER_PAGE = 3
+
+    LANGUAGES = {
+        'en': 'English',
+        'id': 'Indonesia'
+    }
